@@ -48,5 +48,8 @@
     <Image Include="Asignment 1 and 2.ico">
       <Filter>Resource Files</Filter>
     </Image>
+    <Image Include="Bitmap.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
   </ItemGroup>
 </Project>

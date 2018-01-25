@@ -166,6 +166,7 @@
   </ItemGroup>
   <ItemGroup>
     <Image Include="Asignment 1 and 2.ico" />
+    <Image Include="Bitmap.bmp" />
     <Image Include="small.ico" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
