@@ -3,9 +3,9 @@
 
 # Custom for Visual Studio
 *.cs     diff=csharp
+*.cpp 	-text crlf diff
 
 # Standard to msysgit
-*.cpp	diff=astextplain
 *.doc	 diff=astextplain
 *.DOC	 diff=astextplain
 *.docx diff=astextplain
